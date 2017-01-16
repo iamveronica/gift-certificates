@@ -1,8 +1,6 @@
 gift certificates
 ==============================
 
-http://veganbunny.com/portfolio/images/megapeel/twogiftcertificates.png
+These are 2 gift certificates that I created in 2013 for my employer, DermaMed Solutions. Utilized Adobe Photoshop.
 
-These are 2 gift certificates that I created in 2013 for a medical equipment company. Utilized Adobe Photoshop.
-
-![gift certificates](http://veganbunny.com/portfolio/images/megapeel/twogiftcertificates.png)
+![gift certificates](https://raw.githubusercontent.com/iamveronica/gift-certificates/master/giftcertificates.png)
